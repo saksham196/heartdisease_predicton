@@ -47,3 +47,4 @@ if st.button ("Predict"):
         st.error("High Risk of Heart Disease")
     else:
         st.success("Low risk of heart disease")        
+
