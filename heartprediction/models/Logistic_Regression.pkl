@@ -1,5 +1,0 @@
-The file /heartprediction/heartprediction/models/Logistic_Regression.pkl is a binary file that contains the serialized logistic regression model. As such, it cannot be represented in text format. You will need to create this file by training a logistic regression model using a suitable dataset and then saving it using a library like joblib or pickle.
-
-Here is a comment indicating that the file is intentionally left blank for now:
-
-# This file is intentionally left blank. Please create the Logistic Regression model and save it using joblib or pickle.
